@@ -24,15 +24,15 @@
             "homepage": "https://github.com/LamineMbn/movian-plugin-eztv-wolfy",
             "title": "Anime Sekai",
             "synopsis": "Nyaa - Stream Anime",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "file": "nyaa.js",
             "showtimeVersion": "5.0.0",
             "type": "ecmascript",
             "id": "nyaanime",
-            "icon": "https://raw.githubusercontent.com/LamineMbn/movian-plugin-nyaa-wolfy/ae7fdd6927e42755dfcfdd8b0e681d477f8c3257/logo.jpeg",
+            "icon": "https://raw.githubusercontent.com/LamineMbn/movian-plugin-nyaa-wolfy/7a295e8275f8e0211307370631d65443bdba9e85/logo.jpeg",
             "category": "video",
             "apiversion": 2,
-            "downloadURL": "https://github.com/LamineMbn/movian-plugin-nyaa-wolfy/archive/ae7fdd6927e42755dfcfdd8b0e681d477f8c3257.zip"
+            "downloadURL": "https://github.com/LamineMbn/movian-plugin-nyaa-wolfy/archive/7a295e8275f8e0211307370631d65443bdba9e85.zip"
         },
         {
             "id": "zona",
