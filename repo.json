@@ -21,18 +21,18 @@
         {
             "description": "A BitTorrent community focused on Eastern Asian media including anime, manga, music, and more.",
             "author": "Wolfy",
-            "homepage": "https://github.com/LamineMbn/movian-plugin-nyaa-wolfy",
+            "homepage": "https://github.com/LamineMbn/movian-plugin-eztv-wolfy",
             "title": "Anime Sekai",
             "synopsis": "Nyaa - Stream Anime",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "file": "nyaa.js",
             "showtimeVersion": "5.0.0",
             "type": "ecmascript",
             "id": "nyaanime",
-            "icon": "https://raw.githubusercontent.com/LamineMbn/movian-plugin-nyaa-wolfy/7a295e8275f8e0211307370631d65443bdba9e85/logo.jpeg",
+            "icon": "https://raw.githubusercontent.com/LamineMbn/movian-plugin-nyaa-wolfy/d37d49af1555aa19060d1ad1c07884d9c533e72b/logo.jpeg",
             "category": "video",
             "apiversion": 2,
-            "downloadURL": "https://github.com/LamineMbn/movian-plugin-nyaa-wolfy/archive/7a295e8275f8e0211307370631d65443bdba9e85.zip"
+            "downloadURL": "https://github.com/LamineMbn/movian-plugin-nyaa-wolfy/archive/d37d49af1555aa19060d1ad1c07884d9c533e72b.zip"
         },
         {
             "id": "zona",
