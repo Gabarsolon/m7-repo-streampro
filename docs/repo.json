@@ -12,7 +12,7 @@
             "file": "eztv.js",
             "showtimeVersion": "5.0.0",
             "type": "ecmascript",
-            "id": "eztvapiv2",
+            "id": "hackflix",
             "icon": "https://raw.githubusercontent.com/LamineMbn/movian-plugin-eztv-wolfy/2252373ad3c9b1e9a6ac98f446dbf1f530d31363/logo.png",
             "category": "video",
             "apiversion": 2,
