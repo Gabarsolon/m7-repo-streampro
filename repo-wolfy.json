@@ -32,6 +32,20 @@
             "category": "video",
             "apiversion": 2,
             "downloadURL": "https://github.com/LamineMbn/movian-plugin-nyaa-wolfy/archive/76ce799098276f90e43dd9f70b349da6641c50ab.zip"
+        },
+        {
+            "type": "ecmascript",
+            "id": "modarchive",
+            "file": "modarchive.js",
+            "icon": "https://raw.githubusercontent.com/andoma/movian-plugin-modarchive/98a418ea13a338ee3167e87ea5e5c699efe1ca8e/logo.png",
+            "category": "music",
+            "showtimeVersion": "4.8",
+            "version": "2.1",
+            "author": "Andreas Smas",
+            "title": "The Mod Archive",
+            "synopsis": "Welcome to one of the world's largest collections of music modules",
+            "description": "Enjoy music from the past",
+            "downloadURL": "https://github.com/andoma/movian-plugin-modarchive/archive/98a418ea13a338ee3167e87ea5e5c699efe1ca8e.zip"
         }
     ]
 }

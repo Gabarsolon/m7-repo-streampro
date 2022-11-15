@@ -871,19 +871,18 @@
             "popularity": 1546
         },
         {
-            "id": "modarchive",
-            "version": "2.1",
             "type": "ecmascript",
-            "author": "Andreas Smas",
+            "id": "modarchive",
+            "file": "modarchive.js",
+            "icon": "https://raw.githubusercontent.com/andoma/movian-plugin-modarchive/98a418ea13a338ee3167e87ea5e5c699efe1ca8e/logo.png",
+            "category": "music",
             "showtimeVersion": "4.8",
+            "version": "2.1",
+            "author": "Andreas Smas",
             "title": "The Mod Archive",
             "synopsis": "Welcome to one of the world's largest collections of music modules",
             "description": "Enjoy music from the past",
-            "homepage": "",
-            "category": "music",
-            "downloadURL": "http://plugins.movian.tv/data/80f712b9f32b1698f3fb6540f44978f54f9817c7",
-            "icon": "http://plugins.movian.tv/data/f0c697e124ceb714efccfb232680d843f39de311",
-            "popularity": 716
+            "downloadURL": "https://github.com/andoma/movian-plugin-modarchive/archive/98a418ea13a338ee3167e87ea5e5c699efe1ca8e.zip"
         },
         {
             "id": "megogo.net",
