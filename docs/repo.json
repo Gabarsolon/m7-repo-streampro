@@ -1,38 +1,37 @@
 {
     "version": 1,
-    "plugins":
-    [
+    "plugins": [
         {
             "description": "<p>EZTV, your one stop source for all your favorite TV shows. New UI for a better experience . SAFE!",
             "author": "Wolfy",
             "homepage": "https://github.com/LamineMbn/movian-plugin-eztv-wolfy",
             "title": "Hackflix",
             "synopsis": "EZTV + TMDB - Stream TV Shows",
-            "version": "1.2.0",
+            "version": "1.2.1",
             "file": "eztv.js",
             "showtimeVersion": "5.0.0",
             "type": "ecmascript",
             "id": "hackflix",
-            "icon": "https://raw.githubusercontent.com/LamineMbn/movian-plugin-eztv-wolfy/2252373ad3c9b1e9a6ac98f446dbf1f530d31363/logo.png",
+            "icon": "https://raw.githubusercontent.com/LamineMbn/movian-plugin-eztv-wolfy/b5c2d5441f7a605764662b340fdd540299e9c2a1/logo.png",
             "category": "video",
             "apiversion": 2,
-            "downloadURL": "http://github.com/LamineMbn/movian-plugin-eztv-wolfy/archive/2252373ad3c9b1e9a6ac98f446dbf1f530d31363.zip"
+            "downloadURL": "https://github.com/LamineMbn/movian-plugin-eztv-wolfy/archive/b5c2d5441f7a605764662b340fdd540299e9c2a1.zip"
         },
         {
             "description": "A BitTorrent community focused on Eastern Asian media including anime, manga, music, and more.",
             "author": "Wolfy",
-            "homepage": "https://github.com/LamineMbn/movian-plugin-eztv-wolfy",
+            "homepage": "https://github.com/LamineMbn/movian-plugin-nyaa-wolfy",
             "title": "Anime Sekai",
             "synopsis": "Nyaa - Stream Anime",
             "version": "1.0.1",
             "file": "nyaa.js",
             "showtimeVersion": "5.0.0",
             "type": "ecmascript",
-            "id": "nyaanime",
-            "icon": "https://raw.githubusercontent.com/LamineMbn/movian-plugin-nyaa-wolfy/d37d49af1555aa19060d1ad1c07884d9c533e72b/logo.jpeg",
+            "id": "animesekai",
+            "icon": "https://raw.githubusercontent.com/LamineMbn/movian-plugin-nyaa-wolfy/76ce799098276f90e43dd9f70b349da6641c50ab/logo.jpeg",
             "category": "video",
             "apiversion": 2,
-            "downloadURL": "http://github.com/LamineMbn/movian-plugin-nyaa-wolfy/archive/d37d49af1555aa19060d1ad1c07884d9c533e72b.zip"
+            "downloadURL": "https://github.com/LamineMbn/movian-plugin-nyaa-wolfy/archive/76ce799098276f90e43dd9f70b349da6641c50ab.zip"
         },
         {
             "id": "zona",
@@ -63,10 +62,8 @@
             "downloadURL": "http://plugins.movian.tv/data/8e97086f995af8b258a4ac8d814775002851637f",
             "icon": "http://plugins.movian.tv/data/844f1e9bedc1a847e0e6bbef7796a46067e040e9",
             "popularity": 0,
-            "control":
-            {
-                "uriprefixes":
-                [
+            "control": {
+                "uriprefixes": [
                     "zelka:"
                 ]
             }
@@ -85,10 +82,8 @@
             "downloadURL": "http://plugins.movian.tv/data/62b00e926a9b1e3d82f4f8c87585d8b9b9e43add",
             "icon": "http://plugins.movian.tv/data/2a6cd81a22ac524e061c9452b8985700eae04292",
             "popularity": 0,
-            "control":
-            {
-                "uriprefixes":
-                [
+            "control": {
+                "uriprefixes": [
                     "zamunda:"
                 ]
             }
@@ -122,10 +117,8 @@
             "downloadURL": "http://plugins.movian.tv/data/f0389da68e3457e51430d9713981b27039294bbf",
             "icon": "http://plugins.movian.tv/data/61cdcdbee049aa8ffd29630b6690efe1a05a0d2a",
             "popularity": 305087,
-            "control":
-            {
-                "uriprefixes":
-                [
+            "control": {
+                "uriprefixes": [
                     "youtube:",
                     "http://www.youtube.com/",
                     "https://www.youtube.com/",
@@ -180,10 +173,8 @@
             "downloadURL": "http://plugins.movian.tv/data/1261ba50b95947d2442dbf0998241ea9dddf6084",
             "icon": "http://plugins.movian.tv/data/f863c5765c01b3a1ef106f89716fc6bd31ac10c8",
             "popularity": 0,
-            "control":
-            {
-                "fileformats":
-                [
+            "control": {
+                "fileformats": [
                     {
                         "offset": 1080,
                         "data": "TS5LLg==",
@@ -611,10 +602,8 @@
             "downloadURL": "http://plugins.movian.tv/data/f5e06914ec3450dbc2801f81f3dac28318eb38bf",
             "icon": "http://plugins.movian.tv/data/30b5d5d5d2dc573b9073ef988220d485ca5e3139",
             "popularity": 0,
-            "control":
-            {
-                "fileformats":
-                [
+            "control": {
+                "fileformats": [
                     {
                         "data": "UlNJRA==",
                         "mask": "/////w=="
@@ -1120,10 +1109,8 @@
             "downloadURL": "http://plugins.movian.tv/data/cf431d7df2cd968640d0b38773cdf07c0825945e",
             "icon": "http://plugins.movian.tv/data/04b66cb6a12fb6e05c655ff88cb6d9f32dffb6ec",
             "popularity": 0,
-            "control":
-            {
-                "uriprefixes":
-                [
+            "control": {
+                "uriprefixes": [
                     "eztv:"
                 ]
             }
@@ -1337,10 +1324,8 @@
             "downloadURL": "http://plugins.movian.tv/data/4edad50d37a3484805a91462ba6b38f3e42d0063",
             "icon": "http://plugins.movian.tv/data/d19cc759236e998b384249cb5f965aed62acbd92",
             "popularity": 0,
-            "control":
-            {
-                "uriprefixes":
-                [
+            "control": {
+                "uriprefixes": [
                     "arenabg:"
                 ]
             }
