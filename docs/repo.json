@@ -34,6 +34,22 @@
             "downloadURL": "https://github.com/LamineMbn/movian-plugin-nyaa-wolfy/archive/76ce799098276f90e43dd9f70b349da6641c50ab.zip"
         },
         {
+            "description": "<p>anilibria plugin - is the integration of the website <a href=\"https://www.anilibria.tv\">www.anilibria.tv</a> into Movian",
+            "author": "Buksa",
+            "homepage": "https://github.com/Buksa/movian-plugin-anilibria.tv",
+            "title": "anilibria.tv",
+            "synopsis": "https://www.anilibria.tv",
+            "version": "0.0.2",
+            "file": "index.js",
+            "showtimeVersion": "5.0.0",
+            "type": "ecmascript",
+            "id": "anilibria.tv",
+            "icon": "https://raw.githubusercontent.com/Buksa/movian-plugin-anilibria.tv/master/logo.png",
+            "category": "video",
+            "apiversion": 2,
+            "downloadURL": "https://api2.deanbg.com/repo/anilibria_0.0.2.zip"
+        },
+        {
             "id": "zona",
             "version": "0.0.3",
             "type": "ecmascript",
