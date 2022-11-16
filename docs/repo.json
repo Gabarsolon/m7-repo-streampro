@@ -15,7 +15,8 @@
             "icon": "https://raw.githubusercontent.com/LamineMbn/movian-plugin-eztv-wolfy/b5c2d5441f7a605764662b340fdd540299e9c2a1/logo.png",
             "category": "video",
             "apiversion": 2,
-            "downloadURL": "https://laminembn.github.io/movian-plugin-repo/movian-plugin-eztv-wolfy"
+            "downloadURL": "https://laminembn.github.io/movian-plugin-repo/movian-plugin-eztv-wolfy",
+            "popularity": 100
         },
         {
             "description": "A BitTorrent community focused on Eastern Asian media including anime, manga, music, and more.",
@@ -31,7 +32,8 @@
             "icon": "https://raw.githubusercontent.com/LamineMbn/movian-plugin-nyaa-wolfy/76ce799098276f90e43dd9f70b349da6641c50ab/logo.jpeg",
             "category": "video",
             "apiversion": 2,
-            "downloadURL": "https://github.com/LamineMbn/movian-plugin-nyaa-wolfy/archive/76ce799098276f90e43dd9f70b349da6641c50ab.zip"
+            "downloadURL": "https://laminembn.github.io/movian-plugin-repo/movian-plugin-eztv-wolfy",
+            "popularity": 100
         },
         {
             "description": "<p>anilibria plugin - is the integration of the website <a href=\"https://www.anilibria.tv\">www.anilibria.tv</a> into Movian",
@@ -47,7 +49,8 @@
             "icon": "https://raw.githubusercontent.com/Buksa/movian-plugin-anilibria.tv/master/logo.png",
             "category": "video",
             "apiversion": 2,
-            "downloadURL": "https://api2.deanbg.com/repo/anilibria_0.0.2.zip"
+            "downloadURL": "https://api2.deanbg.com/repo/anilibria_0.0.2.zip",
+            "popularity": 10
         },
         {
             "id": "zona",
@@ -62,7 +65,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/d2e171e3c3e287fc7e90342c933ccb6f2da984f7",
             "icon": "http://plugins.movian.tv/data/0e93dee7a39155ca91ad3fbebba7306dd5b86d6f",
-            "popularity": 22601
+            "popularity": 1
         },
         {
             "id": "Zelka",
@@ -117,7 +120,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/77a32c424d977ce293f67e8471aebb1db486c2ea",
             "icon": "http://plugins.movian.tv/data/d95949169d25ffcb1dad42192f359ffa2699a147",
-            "popularity": 36402
+            "popularity": 1
         },
         {
             "id": "youtube",
@@ -132,7 +135,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/f0389da68e3457e51430d9713981b27039294bbf",
             "icon": "http://plugins.movian.tv/data/61cdcdbee049aa8ffd29630b6690efe1a05a0d2a",
-            "popularity": 305087,
+            "popularity": 1,
             "control": {
                 "uriprefixes": [
                     "youtube:",
@@ -158,7 +161,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/14d9f38f1a780dc38a72432fe12ab14f43c9a6c7",
             "icon": "http://plugins.movian.tv/data/c13f607c6659f34b0fd15b2847a7600f25c97f66",
-            "popularity": 26258
+            "popularity": 1
         },
         {
             "id": "xperience",
@@ -227,7 +230,7 @@
             "category": "other",
             "downloadURL": "http://plugins.movian.tv/data/f74fd6d6c3302f9c05c61e3773d78597b1dcc417",
             "icon": "http://plugins.movian.tv/data/541a9cc6d6101071dda49a181bfe8f645b4b80ae",
-            "popularity": 2118
+            "popularity": 1
         },
         {
             "id": "vtele.ca",
@@ -242,7 +245,7 @@
             "category": "tv",
             "downloadURL": "http://plugins.movian.tv/data/226640cd959fed5177d146e7c424c413d7c70778",
             "icon": "http://plugins.movian.tv/data/de9f7126aa6ef14cea66b6cf6a2851da452a7fe9",
-            "popularity": 976
+            "popularity": 1
         },
         {
             "id": "vkvideos",
@@ -257,7 +260,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/2585da4c8fd3e0993e0bd6d6d1db61041af84a34",
             "icon": "http://plugins.movian.tv/data/185d0b49894551733cf0ca698c47dbe09585882b",
-            "popularity": 12299
+            "popularity": 1
         },
         {
             "id": "vk",
@@ -272,7 +275,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/e434bdc8e7d374dd12163bb8b072981f58472e59",
             "icon": "http://plugins.movian.tv/data/cdc0e19b73ef5b8eb1ddf8bfe02eb4e25fac1256",
-            "popularity": 15322
+            "popularity": 1
         },
         {
             "id": "vimeo",
@@ -287,7 +290,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/3744647ef019d8c4fb5af9e440f3cb2406612b05",
             "icon": "http://plugins.movian.tv/data/721e5dd6ae6b2fd3730d7a36c161d2ebc059b1e3",
-            "popularity": 12485
+            "popularity": 1
         },
         {
             "id": "videocopilot",
@@ -317,7 +320,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/dce4127d0a2ac9e9d7c30433fee6d1c243777266",
             "icon": "http://plugins.movian.tv/data/e91bf4f9e9da098c161c3b934b253d49b3860d6e",
-            "popularity": 30419
+            "popularity": 1
         },
         {
             "id": "tvRadar",
@@ -332,7 +335,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/b47b3989f140f747d92d8dedd89cd4a4424958b0",
             "icon": "http://plugins.movian.tv/data/982c7aa53425e5cf70e141092d9ac3a5420f8f75",
-            "popularity": 152
+            "popularity": 1
         },
         {
             "id": "tvn",
@@ -392,7 +395,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/ce4fa756832d707e5ad7f000af05cddee3abc812",
             "icon": "http://plugins.movian.tv/data/37708face9e8b00aed565dd39936535e7e52ad06",
-            "popularity": 58032
+            "popularity": 1
         },
         {
             "id": "trakt",
@@ -437,7 +440,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/c2c3ca6a6b1e592bf8fd6270ebe8a8fc23049867",
             "icon": "http://plugins.movian.tv/data/a516357fb0cd8254a635d6bab56e67351d9af2e0",
-            "popularity": 2491
+            "popularity": 1
         },
         {
             "id": "torrents",
@@ -497,7 +500,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/49a9221df7a48598c568f4a70bb1848ffcab50f9",
             "icon": "http://plugins.movian.tv/data/355db0471a13ff31be1c108171663bc7417fdacf",
-            "popularity": 10103
+            "popularity": 1
         },
         {
             "id": "telewizjada",
@@ -527,7 +530,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/b83b9e56937a049117d67f76a91fbd1f0c5ec0cf",
             "icon": "http://plugins.movian.tv/data/bfa50dd598fec00eb51308af4dad34f0adbe7e3e",
-            "popularity": 806
+            "popularity": 1
         },
         {
             "id": "subsBG",
@@ -557,7 +560,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/260ef6b814a5738feadd21152e421751e5c418d8",
             "icon": "http://plugins.movian.tv/data/b3954c2c8fd5e07468da18d236357b0d99a044bb",
-            "popularity": 8326
+            "popularity": 1
         },
         {
             "id": "somafm",
@@ -587,7 +590,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/b9b0931da7ff42b373292f2204e5e4047d15244d",
             "icon": "http://plugins.movian.tv/data/0a659952a6cc558eb8db92c11d88323f97ab0ca0",
-            "popularity": 1605
+            "popularity": 1
         },
         {
             "id": "skyF1",
@@ -659,7 +662,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/aca46afd3e007bb0813bdd0d578200fa3a96f355",
             "icon": "http://plugins.movian.tv/data/fe6ceb02e60d4b68c77f0921c02b776e7419ed4a",
-            "popularity": 3011
+            "popularity": 1
         },
         {
             "id": "rutracker",
@@ -674,7 +677,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/79a5267a2a5c1d4fbcfd475c737de89bf14ac6c8",
             "icon": "http://plugins.movian.tv/data/26ceb97986f2e560b7dc097debeecd7299d6b8f9",
-            "popularity": 5191642
+            "popularity": 1
         },
         {
             "id": "rutor",
@@ -689,7 +692,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/f1f0bd97ab41f4c50688fbd5c2e8b0d04007f361",
             "icon": "http://plugins.movian.tv/data/4cb5fe6ba94222ffedf00908e7256739513ede64",
-            "popularity": 175035
+            "popularity": 1
         },
         {
             "id": "rustorka",
@@ -704,7 +707,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/07b2d90f85523b489aaa4c04b985a0bd36a8400c",
             "icon": "http://plugins.movian.tv/data/0b47abe113f7c946ea8e10116429c32e4a5a978b",
-            "popularity": 490464
+            "popularity": 1
         },
         {
             "id": "rua_osk",
@@ -779,7 +782,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/766b9afe14c9539de643717183ebefb5589ac6ec",
             "icon": "http://plugins.movian.tv/data/0e27bfc44d3a0b8c9f3207c8d3128b4e5922d076",
-            "popularity": 2403
+            "popularity": 1
         },
         {
             "id": "peli-xr",
@@ -824,7 +827,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/7192a255858c31a1a80d2aff4de1516bec295bd9",
             "icon": "http://plugins.movian.tv/data/d21c03727dccc3f50bc810ef2ec69e3d2eec2b80",
-            "popularity": 403
+            "popularity": 1
         },
         {
             "id": "opensubtitles",
@@ -869,7 +872,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/d066392d80c734453db143ab8f11fbbf38973b74",
             "icon": "http://plugins.movian.tv/data/905052f42c6a3791ed739937804d626f2fedfd25",
-            "popularity": 1670
+            "popularity": 1
         },
         {
             "id": "mozicsillag.cc",
@@ -884,7 +887,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/e87613bffca928275c0ba297fd6c764b66e58b2d",
             "icon": "http://plugins.movian.tv/data/592e178d11cce53cfcd2079c0743f4a510b607f4",
-            "popularity": 1546
+            "popularity": 1
         },
         {
             "id": "modarchive",
@@ -914,7 +917,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/b36d0167693b1e7b9063a8467e6b8d5b709b41ce",
             "icon": "http://plugins.movian.tv/data/14c6d3ab61d5755b8b73acbb563551818071ef9d",
-            "popularity": 46659
+            "popularity": 1
         },
         {
             "id": "mediatheken",
@@ -929,7 +932,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/fb3391765a665aa171409868d050f3fba9c69890",
             "icon": "http://plugins.movian.tv/data/dd2e1404ae2fcec387c6e9b06f5aba2359adbf3c",
-            "popularity": 624
+            "popularity": 1
         },
         {
             "id": "liveleak",
@@ -944,7 +947,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/f3ca7171eb9434e9738e9b677a7bbaea0968cfc2",
             "icon": "http://plugins.movian.tv/data/0e514997fd5c952dbec028b79c540e0058067e26",
-            "popularity": 3388
+            "popularity": 1
         },
         {
             "id": "linkomanija",
@@ -974,7 +977,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/16e3c7090dc37aa79617cf2dcdc1bee2d8460ea2",
             "icon": "http://plugins.movian.tv/data/8b21fd07cd06269310b4ce1e1a016df6b3078f15",
-            "popularity": 15053
+            "popularity": 1
         },
         {
             "id": "keysBG",
@@ -1034,7 +1037,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/4dc8051ae96b3bc03d3ce666f4afe1da8433fe88",
             "icon": "http://plugins.movian.tv/data/3a9bdb11ed956568373d880a1b37fd6aa67bf752",
-            "popularity": 110960
+            "popularity": 1
         },
         {
             "id": "gmeplayer",
@@ -1064,7 +1067,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/28694cd2d47c96f6df4f89487da9f6997b597656",
             "icon": "http://plugins.movian.tv/data/ebd7d73a1e9fa15604eb50d22773835d8261bac6",
-            "popularity": 19316
+            "popularity": 1
         },
         {
             "id": "fmovies",
@@ -1079,7 +1082,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/13a6837057ed91b139d6155bb5360971519d2750",
             "icon": "http://plugins.movian.tv/data/8475527e096bbfb84ab690080b7feebd584b7505",
-            "popularity": 72127
+            "popularity": 1
         },
         {
             "id": "filmezz.eu",
@@ -1094,7 +1097,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/8325002d6477482df8864e3f9e306929199d3678",
             "icon": "http://plugins.movian.tv/data/3c3f8bf962820103af9e474604a0c83ca3b470f3",
-            "popularity": 3971
+            "popularity": 1
         },
         {
             "id": "eztvapi",
@@ -1109,7 +1112,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/9b37eaf46963301f5006ec0052f8b8f084b8f03e",
             "icon": "http://plugins.movian.tv/data/8df5f0e2aa7d18657b0834616c9e9f6dc67eedb4",
-            "popularity": 3750
+            "popularity": 1
         },
         {
             "id": "eztv",
@@ -1174,7 +1177,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/1628327648a06ca51c48768baa69edd58abf5781",
             "icon": "http://plugins.movian.tv/data/e199577fbdc07a7c203a5f4fe64439b091f3dfe9",
-            "popularity": 8978
+            "popularity": 1
         },
         {
             "id": "di",
@@ -1204,7 +1207,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/a59c1ae9d142a35f4b59738b849d08474ff3b0d2",
             "icon": "http://plugins.movian.tv/data/3d99e6da1b021ae9cda8ddce8e6cdee77bcdf528",
-            "popularity": 5643
+            "popularity": 1
         },
         {
             "id": "custombg",
@@ -1234,7 +1237,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/0ee2cb288fbc20817a4c23ebe950b15095cebb7e",
             "icon": "http://plugins.movian.tv/data/b69cb5d7a54acd242e00afd69fc9f0f1253f655c",
-            "popularity": 49450
+            "popularity": 1
         },
         {
             "id": "channel9",
@@ -1249,7 +1252,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/720075669a13dd71e7e2b26c94ee8d4f5567c63c",
             "icon": "http://plugins.movian.tv/data/4bb23078338c66a0cd7403a07c5004595c8bc253",
-            "popularity": 740
+            "popularity": 1
         },
         {
             "id": "cda",
@@ -1264,7 +1267,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/040d9d5f77ef7aa150c4493f688138c103861f16",
             "icon": "http://plugins.movian.tv/data/02084bda7af0437948886fcb32c3f9b8eaf0b5e0",
-            "popularity": 520
+            "popularity": 1
         },
         {
             "id": "bs.to",
@@ -1279,7 +1282,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/a39b888d683d6161d4d70f104773b0cf9007f302",
             "icon": "http://plugins.movian.tv/data/7f00c3f8a4e39fbd9c5e031f8b2db56e083a9cea",
-            "popularity": 7805
+            "popularity": 1
         },
         {
             "id": "bgTV",
@@ -1309,7 +1312,7 @@
             "category": "video",
             "downloadURL": "http://plugins.movian.tv/data/b1e3ca9632ec89a6ab930773263693be357b9855",
             "icon": "http://plugins.movian.tv/data/cc7df5012f11ccad720364604477455b7f955538",
-            "popularity": 49935
+            "popularity": 1
         },
         {
             "id": "asiandrama.ru",
