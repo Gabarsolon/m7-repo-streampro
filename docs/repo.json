@@ -369,18 +369,18 @@
         },
         {
             "id": "tv",
-            "version": "1.0.28",
+            "version": "3.1",
             "type": "ecmascript",
-            "author": "lprot",
-            "showtimeVersion": "4.8",
-            "title": "Online TV",
-            "synopsis": "Online TV - collection of online tv sources",
-            "description": "<p>Online TV - is M3U/XML playlist loader and collection of online tv sources.<p>For more information visit corresponding websites.",
+            "author": "lprot, F0R3V3R50F7",
+            "showtimeVersion": "7.0.75",
+            "title": "StreamPRO",
+            "synopsis": "A User-Friendly M3U/XML IPTV Player for Movian/M7 Media Center featuring a collection of 3rd Party Free-to-Air Content Providers!",
+            "description": "<p>A User-Friendly M3U/XML IPTV Player for Movian/M7 Media Center featuring a collection of 3rd Party Free-to-Air Content Providers!",
             "homepage": "https://github.com/lprot/movian-plugin-onlinetv",
             "category": "tv",
-            "downloadURL": "http://plugins.movian.tv/data/5fff596190821fd0a9c29da12c1f8965ca04726e",
-            "icon": "http://plugins.movian.tv/data/ae355a1b81abebd76f1d3364d4f68c201d8750ef",
-            "popularity": 502836
+            "downloadURL": "http://github.com/dajesusmodz/m7-plugin-StreamPRO/releases/latest/download/streampro.zip",
+            "icon": "https://github.com/dajesusmodz/m7-plugin-StreamPRO/blob/master/logo.png?raw=true",
+            "popularity": 0
         },
         {
             "id": "tree.tv",
