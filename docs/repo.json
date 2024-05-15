@@ -1,6 +1,7 @@
 {
     "version": 1,
-    "plugins": [
+    "plugins": 
+    [
         {
             "description": "<p>EZTV, your one stop source for all your favorite TV shows. New UI for a better experience . SAFE!",
             "author": "Wolfy",
