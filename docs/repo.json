@@ -37,17 +37,17 @@
             "popularity": 100
         },
         {
-            "id": "streampro",
-            "version": "3.1 (Release)",
+            "id": "vuepro",
+            "version": "3.2 (Pre-Release)",
             "type": "ecmascript",
             "author": "lprot, F0R3V3R50F7",
             "M7Version": "7.0.24",
-            "title": "StreamPRO",
+            "title": "vuePRO",
             "synopsis": "A User-Friendly M3U/XML IPTV Player for Movian/M7 Media Center featuring a collection of 3rd Party Free-to-Air Content Providers!",
             "description": "<p>A User-Friendly M3U/XML IPTV Player for Movian/M7 Media Center featuring a collection of 3rd Party Free-to-Air Content Providers!",
-            "homepage": "https://github.com/lprot/movian-plugin-onlinetv",
+            "homepage": "http://github.com/dajesusmodz/m7-plugin-StreamPRO/",
             "category": "tv",
-            "downloadURL": "http://github.com/dajesusmodz/m7-plugin-StreamPRO/raw/master/stable.zip",
+            "downloadURL": "http://github.com/dajesusmodz/m7-plugin-StreamPRO/raw/master/unstable.zip",
             "icon": "https://github.com/dajesusmodz/m7-plugin-StreamPRO/blob/master/logo.png?raw=true",
             "popularity": 1
         }
