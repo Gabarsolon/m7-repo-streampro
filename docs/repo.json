@@ -369,7 +369,7 @@
         },
         {
             "id": "streampro",
-            "version": "3.1",
+            "version": "3.1 (Release)",
             "type": "ecmascript",
             "author": "lprot, F0R3V3R50F7",
             "showtimeVersion": "4.10",
