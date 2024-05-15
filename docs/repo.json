@@ -372,7 +372,7 @@
             "version": "3.1 (Release)",
             "type": "ecmascript",
             "author": "lprot, F0R3V3R50F7",
-            "showtimeVersion": "4.10",
+            "M7Version": "7.0.24",
             "title": "StreamPRO",
             "synopsis": "A User-Friendly M3U/XML IPTV Player for Movian/M7 Media Center featuring a collection of 3rd Party Free-to-Air Content Providers!",
             "description": "<p>A User-Friendly M3U/XML IPTV Player for Movian/M7 Media Center featuring a collection of 3rd Party Free-to-Air Content Providers!",
@@ -380,7 +380,7 @@
             "category": "tv",
             "downloadURL": "http://github.com/dajesusmodz/m7-plugin-StreamPRO/raw/master/stable.zip",
             "icon": "https://github.com/dajesusmodz/m7-plugin-StreamPRO/blob/master/logo.png?raw=true",
-            "popularity": 0
+            "popularity": 1
         },
         {
             "id": "tree.tv",
