@@ -378,7 +378,7 @@
             "description": "<p>A User-Friendly M3U/XML IPTV Player for Movian/M7 Media Center featuring a collection of 3rd Party Free-to-Air Content Providers!",
             "homepage": "https://github.com/lprot/movian-plugin-onlinetv",
             "category": "tv",
-            "downloadURL": "https://github.com/dajesusmodz/m7-plugin-StreamPRO/releases/latest/download/streampro.zip",
+            "downloadURL": "http://plugins.movian.tv/data/26deb1a7e7bdc4550612a8ea482fb5a1639abb73",
             "icon": "https://github.com/dajesusmodz/m7-plugin-StreamPRO/blob/master/logo.png?raw=true",
             "popularity": 0
         },
