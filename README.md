@@ -1,7 +1,16 @@
-**A Plugin Repository for Movian/M7 Media Center**
+**How to use the StreamPRO Repo:**
 
+1) Open Movian/M7 Media Center and open 'Settings'.
 
-![StreamPRO Logo](/logo.png)
+2) Navigate to and select 'General'.
+
+3) Find the 'Alternate Repository URL' Menu Entry.
+
+4) Select the blank text box and enter the following:
+
+    https://bit.ly/streamprom7
+
+5) Return to your home screen, select 'Plugins' then 'Browse Available Plugins'.
 
 
 **Featured Plugins:**
@@ -49,22 +58,6 @@
     Description: YTS – Here you will be able to browse and watch movies in excellent DVD, 720p, 1080p and 3D quality, all at the smallest file size.
 
     Link: http://github.com/dajesusmodz/m7-plugin-yts/
-
-
-**How to use the StreamPRO Repo:**
-
-1) Open Movian/M7 Media Center and open 'Settings'.
-
-2) Navigate to and select 'General'.
-
-3) Find the 'Alternate Repository URL' Menu Entry.
-
-4) Select the blank text box and enter the following:
-
-    https://bit.ly/streamprom7
-
-5) Return to your home screen, select 'Plugins' then 'Browse Available Plugins'.
-
 
 
 **Submitting Plugins:**
