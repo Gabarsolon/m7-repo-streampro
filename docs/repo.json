@@ -65,6 +65,21 @@
             "downloadURL": "http://github.com/dajesusmodz/m7-plugin-SHOUTcast/releases/download/0.3.1/shoutcast_stable.zip",
             "icon": "http://github.com/dajesusmodz/m7-plugin-SHOUTcast/blob/master/logo.png?raw=true",
             "popularity": 2446
+        },
+        {
+            "id": "yts",
+            "version": "0.4.11",
+            "type": "ecmascript",
+            "author": "lprot",
+            "showtimeVersion": "4.8",
+            "title": "YTS",
+            "synopsis": "YTS – Here you will be able to browse and watch movies in excellent DVD, 720p, 1080p and 3D quality, all at the smallest file size",
+            "description": "<p>YTS – Here you will be able to browse and watch movies in excellent DVD, 720p, 1080p and 3D quality, all at the smallest file size<p>For additional info, visit <a href=\"http://yts.to\">http://yts.to</a>",
+            "homepage": "http://github.com/dajesusmodz/m7-plugin-yts/",
+            "category": "video",
+            "downloadURL": "http://github.com/dajesusmodz/m7-plugin-yts/releases/download/0.4.11/yts_stable.zip",
+            "icon": "http://github.com/dajesusmodz/m7-plugin-yts/blob/master/logo.png?raw=true",
+            "popularity": 36402
         }
     ]
 }
