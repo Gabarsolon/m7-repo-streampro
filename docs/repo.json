@@ -68,16 +68,16 @@
         },
         {
             "id": "yts",
-            "version": "0.4.11",
+            "version": "0.5",
             "type": "ecmascript",
             "author": "lprot",
-            "showtimeVersion": "4.8",
+            "m7Version": "7.0.0",
             "title": "YTS",
             "synopsis": "YTS – Here you will be able to browse and watch movies in excellent DVD, 720p, 1080p and 3D quality, all at the smallest file size",
             "description": "<p>YTS – Here you will be able to browse and watch movies in excellent DVD, 720p, 1080p and 3D quality, all at the smallest file size<p>For additional info, visit <a href=\"http://yts.to\">http://yts.to</a>",
             "homepage": "http://github.com/dajesusmodz/m7-plugin-yts/",
             "category": "video",
-            "downloadURL": "http://github.com/dajesusmodz/m7-plugin-yts/releases/download/0.4.11/yts_stable.zip",
+            "downloadURL": "http://github.com/dajesusmodz/m7-plugin-yts/raw/master/yts_stable.zip",
             "icon": "http://github.com/dajesusmodz/m7-plugin-yts/blob/master/logo.png?raw=true",
             "popularity": 36402
         }
