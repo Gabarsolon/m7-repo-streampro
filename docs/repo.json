@@ -45,10 +45,10 @@
             "title": "vuePRO",
             "synopsis": "A User-Friendly Free-To-Air TV Player for M7 Media Center with additional features.",
             "description": "This is a fork / modification of the Online-TV plugin, originally by iprot.",
-            "homepage": "http://github.com/dajesusmodz/m7-plugin-StreamPRO/",
+            "homepage": "http://github.com/dajesusmodz/m7-plugin-vuePRO/",
             "category": "tv",
-            "downloadURL": "http://github.com/dajesusmodz/m7-plugin-StreamPRO/raw/master/vuepro_stable.zip",
-            "icon": "https://github.com/dajesusmodz/m7-plugin-StreamPRO/blob/master/logo.png?raw=true",
+            "downloadURL": "http://github.com/dajesusmodz/m7-plugin-vuePRO/raw/master/vuepro_stable.zip",
+            "icon": "https://github.com/dajesusmodz/m7-plugin-vuePRO/blob/master/logo.png?raw=true",
             "popularity": 1
         }
     ]
