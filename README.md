@@ -53,9 +53,10 @@
 * YTS
 
     by iprot
-    Description: YTS – Here you will be able to browse and watch movies in excellent DVD, 720p, 1080p and 3D quality, all at the smallest file size.
-    Link: http://github.com/dajesusmodz/m7-plugin-yts/
 
+    Description: YTS – Here you will be able to browse and watch movies in excellent DVD, 720p, 1080p and 3D quality, all at the smallest file size.
+
+    Link: http://github.com/dajesusmodz/m7-plugin-yts/
 
 
 **How to use the StreamPRO Repo:**
