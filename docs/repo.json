@@ -48,7 +48,7 @@
             "homepage": "http://github.com/dajesusmodz/m7-plugin-vuePRO/",
             "category": "tv",
             "downloadURL": "http://github.com/dajesusmodz/m7-plugin-vuePRO/raw/master/vuepro_stable.zip",
-            "icon": "https://github.com/dajesusmodz/m7-plugin-vuePRO/blob/master/logo.png?raw=true",
+            "icon": "http://github.com/dajesusmodz/m7-plugin-vuePRO/blob/master/logo.png?raw=true",
             "popularity": 1
         },
         {
@@ -60,10 +60,10 @@
             "title": "SHOUTcast",
             "synopsis": "SHOUTcast Radio - Listen to Free Online Radio Stations",
             "description": "<p>SHOUTcast Radio - Listen to Free Online Radio Stations<p>For more information, visit <a href=\"http://www.shoutcast.com\">http://www.shoutcast.com</a>",
-            "homepage": "https://github.com/dajesusmodz/m7-plugin-SHOUTcast/",
+            "homepage": "http://github.com/dajesusmodz/m7-plugin-SHOUTcast/",
             "category": "music",
-            "downloadURL": "https://github.com/dajesusmodz/m7-plugin-SHOUTcast/releases/download/0.3.1/shoutcast_stable.zip",
-            "icon": "https://github.com/dajesusmodz/m7-plugin-SHOUTcast/blob/master/logo.png?raw=true",
+            "downloadURL": "http://github.com/dajesusmodz/m7-plugin-SHOUTcast/releases/download/0.3.1/shoutcast_stable.zip",
+            "icon": "http://github.com/dajesusmodz/m7-plugin-SHOUTcast/blob/master/logo.png?raw=true",
             "popularity": 2446
         }
     ]
