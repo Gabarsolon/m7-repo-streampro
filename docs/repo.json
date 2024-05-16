@@ -63,7 +63,7 @@
             "homepage": "https://github.com/dajesusmodz/m7-plugin-SHOUTcast/",
             "category": "music",
             "downloadURL": "https://github.com/dajesusmodz/m7-plugin-SHOUTcast/releases/download/0.3.1/shoutcast_stable.zip",
-            "icon": "https://raw.githubusercontent.com/dajesusmodz/m7-plugin-SHOUTcast/master/logo.png?raw=true",
+            "icon": "https://github.com/dajesusmodz/m7-plugin-SHOUTcast/blob/master/logo.png?raw=true",
             "popularity": 2446
         }
     ]
