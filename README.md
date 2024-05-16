@@ -1,3 +1,6 @@
+![StreamPRO Logo](/logo.png)
+
+
 **How to use the StreamPRO Repo:**
 
 1) Open Movian/M7 Media Center and open 'Settings'.
