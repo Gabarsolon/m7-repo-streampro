@@ -3,14 +3,6 @@
 
 ![StreamPRO Logo](/logo.png)
 
-**Screenshots:**
-
-(Coming Soon)
-
-![StreamPRO Logo](/Screenshots/1.png)
-![StreamPRO Logo](/Screenshots/2.png)
-![StreamPRO Logo](/Screenshots/3.png)
-
 
 **Featured Plugins:**
 
@@ -69,7 +61,7 @@
 
 4) Select the blank text box and enter the following:
 
-https://bit.ly/streamprom7
+    https://bit.ly/streamprom7
 
 5) Return to your home screen, select 'Plugins' then 'Browse Available Plugins'.
 
