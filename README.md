@@ -18,13 +18,13 @@
 
 **Featured Plugins:**
 
-* Hackflix
+* EZTV
 
-    by Wolfy
+    by Gekko, iprot, Wolfy, F0R3V3R50F7
 
     Description: EZTV, your one stop source for all your favorite TV shows. New UI for a better experience . SAFE!
 
-    Link: https://github.com/LamineMbn/movian-plugin-eztv-wolfy
+    Link: https://github.com/dajesusmodz/m7-plugin-eztv
 
 
 * Anime Sekai
@@ -42,7 +42,7 @@
 
     Description: A User-Friendly Free-To-Air TV Player for M7 Media Center with additional features.
 
-    Link: http://github.com/dajesusmodz/m7-plugin-vuePRO/
+    Link: https://github.com/dajesusmodz/m7-plugin-vuePRO/
 
 
 * SHOUTcast
@@ -51,7 +51,7 @@
 
     Description: SHOUTcast Radio - Listen to Free Online Radio Stations | For more information, visit "http://www.shoutcast.com".
 
-    Link: http://github.com/dajesusmodz/m7-plugin-SHOUTcast/
+    Link: https://github.com/dajesusmodz/m7-plugin-SHOUTcast/
 
 
 * YTS
@@ -60,7 +60,7 @@
 
     Description: YTS – Here you will be able to browse and watch movies in excellent DVD, 720p, 1080p and 3D quality, all at the smallest file size.
 
-    Link: http://github.com/dajesusmodz/m7-plugin-yts/
+    Link: https://github.com/dajesusmodz/m7-plugin-yts/
 
 
 **Submitting Plugins:**
