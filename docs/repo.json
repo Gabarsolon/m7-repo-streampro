@@ -17,6 +17,7 @@
             "category": "video",
             "apiversion": 2,
             "downloadURL": "http://github.com/dajesusmodz/m7-plugin-eztv/raw/master/eztv_stable.zip",
+            "popularity": 1
         },
         {
             "description": "A BitTorrent community focused on Eastern Asian media including anime, manga, music, and more.",
@@ -33,6 +34,7 @@
             "category": "video",
             "apiversion": 2,
             "downloadURL": "https://laminembn.github.io/movian-plugin-repo/movian-plugin-nyaa-wolfy",
+            "popularity": 1
         },
         {
             "id": "vuePRO",
@@ -47,6 +49,7 @@
             "category": "tv",
             "downloadURL": "http://github.com/dajesusmodz/m7-plugin-vuePRO/raw/master/vuepro_stable.zip",
             "icon": "http://github.com/dajesusmodz/m7-plugin-vuePRO/blob/master/logo.png?raw=true",
+            "popularity": 1
         },
         {
             "id": "shoutcast",
@@ -61,6 +64,7 @@
             "category": "music",
             "downloadURL": "http://github.com/dajesusmodz/m7-plugin-SHOUTcast/releases/download/0.3.1/shoutcast_stable.zip",
             "icon": "http://github.com/dajesusmodz/m7-plugin-SHOUTcast/blob/master/logo.png?raw=true",
+            "popularity": 1
         },
         {
             "id": "yts",
@@ -75,6 +79,7 @@
             "category": "video",
             "downloadURL": "http://github.com/dajesusmodz/m7-plugin-yts/raw/master/yts_stable.zip",
             "icon": "http://github.com/dajesusmodz/m7-plugin-yts/blob/master/logo.png?raw=true",
+            "popularity": 1
         }
     ]
 }
