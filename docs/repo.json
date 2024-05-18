@@ -16,7 +16,7 @@
             "icon": "https://raw.githubusercontent.com/dajesusmodz/m7-plugin-eztv/main/logo.png",
             "category": "video",
             "apiversion": 2,
-            "downloadURL": "http://github.com/dajesusmodz/m7-plugin-eztv/raw/master/eztv_stable.zip",
+            "downloadURL": "http://github.com/dajesusmodz/m7-plugin-eztv/raw/main/eztv_stable.zip",
             "popularity": 1
         },
         {
