@@ -3,21 +3,20 @@
     "plugins": 
     [
         {
-            "description": "<p>EZTV, your one stop source for all your favorite TV shows. New UI for a better experience . SAFE!",
-            "author": "Wolfy",
-            "homepage": "https://github.com/LamineMbn/movian-plugin-eztv-wolfy",
+            "description": "This is a fork of Hackflix by Wolfy.",
+            "author": "Gekko, iprot, Wolfy, F0R3V3R50F7",
+            "homepage": "http://github.com/dajesusmodz/m7-plugin-eztv/",
             "title": "Hackflix",
-            "synopsis": "EZTV + TMDB - Stream TV Shows",
-            "version": "1.2.2",
+            "synopsis": "EZTV, your one stop source for all your favorite TV shows.",
+            "version": "1.3",
             "file": "eztv.js",
-            "showtimeVersion": "5.0.0",
+            "m7Version": "7.0.0",
             "type": "ecmascript",
-            "id": "hackflix",
-            "icon": "https://raw.githubusercontent.com/LamineMbn/movian-plugin-eztv-wolfy/b5c2d5441f7a605764662b340fdd540299e9c2a1/logo.png",
+            "id": "eztv",
+            "icon": "http://github.com/dajesusmodz/m7-plugin-eztv/blob/master/logo.png?raw=true",
             "category": "video",
             "apiversion": 2,
-            "downloadURL": "https://laminembn.github.io/movian-plugin-repo/movian-plugin-eztv-wolfy",
-            "popularity": 100
+            "downloadURL": "http://github.com/dajesusmodz/m7-plugin-eztv/raw/master/eztv_stable.zip",
         },
         {
             "description": "A BitTorrent community focused on Eastern Asian media including anime, manga, music, and more.",
@@ -34,7 +33,6 @@
             "category": "video",
             "apiversion": 2,
             "downloadURL": "https://laminembn.github.io/movian-plugin-repo/movian-plugin-nyaa-wolfy",
-            "popularity": 100
         },
         {
             "id": "vuePRO",
@@ -49,7 +47,6 @@
             "category": "tv",
             "downloadURL": "http://github.com/dajesusmodz/m7-plugin-vuePRO/raw/master/vuepro_stable.zip",
             "icon": "http://github.com/dajesusmodz/m7-plugin-vuePRO/blob/master/logo.png?raw=true",
-            "popularity": 1
         },
         {
             "id": "shoutcast",
@@ -64,7 +61,6 @@
             "category": "music",
             "downloadURL": "http://github.com/dajesusmodz/m7-plugin-SHOUTcast/releases/download/0.3.1/shoutcast_stable.zip",
             "icon": "http://github.com/dajesusmodz/m7-plugin-SHOUTcast/blob/master/logo.png?raw=true",
-            "popularity": 2446
         },
         {
             "id": "yts",
@@ -79,7 +75,6 @@
             "category": "video",
             "downloadURL": "http://github.com/dajesusmodz/m7-plugin-yts/raw/master/yts_stable.zip",
             "icon": "http://github.com/dajesusmodz/m7-plugin-yts/blob/master/logo.png?raw=true",
-            "popularity": 36402
         }
     ]
 }
