@@ -22,7 +22,7 @@
 
     by Gekko, iprot, Wolfy, F0R3V3R50F7
 
-    Description: EZTV, your one stop source for all your favorite TV shows. New UI for a better experience . SAFE!
+    Description: EZTV, your one stop source for all your favorite TV shows.
 
     Link: https://github.com/dajesusmodz/m7-plugin-eztv
 
