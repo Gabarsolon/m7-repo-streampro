@@ -3,12 +3,12 @@
     "plugins": 
     [
         {
-            "description": "Changelog (21/05/24)<p>* Fixed Infinite Loading Bug in 'My Favorites' Page.<p>* Improved Box Set Sorting and Search Result Accuracy.<p>* Added Invisible Seperators on Start Page for Better Presentation.",
+            "description": "<p>Changelog (21/05/24):<p>* Improved Episode Search Logic.<p>* Fixed Corrupted Seperator Episode Titles.<p>* Added New Background.",
             "author": "Gekko, iprot, Wolfy, F0R3V3R50F7",
             "homepage": "http://github.com/dajesusmodz/m7-plugin-eztv/",
             "title": "EZTV",
             "synopsis": "EZTV, your one stop source for all your favorite TV shows.",
-            "version": "1.6",
+            "version": "1.7",
             "file": "eztv.js",
             "m7Version": "7.0.0",
             "type": "ecmascript",
