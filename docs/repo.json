@@ -93,7 +93,7 @@
             "homepage": "http://github.com/dajesusmodz/m7-plugin-internetarchive/",
             "category": "video",
             "downloadURL": "https://github.com/dajesusmodz/m7-plugin-internetarchive/raw/main/internetarchive_stable.zip",
-            "icon": "https://archive.org/images/logo.png",
+            "icon": "http://github.com/dajesusmodz/m7-plugin-internetarchive/blob/master/logo.png?raw=true",
             "popularity": 1
         }
     ]
