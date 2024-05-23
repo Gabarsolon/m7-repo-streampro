@@ -92,7 +92,7 @@
             "description": "Changelog (23/05/24):<p><p>* This is a Brand New Plugin!",
             "homepage": "http://github.com/dajesusmodz/m7-plugin-internetarchive/",
             "category": "video",
-            "downloadURL": "http://github.com/dajesusmodz/m7-plugin-internetarchive/raw/master/internetarchive_stable.zip",
+            "downloadURL": "https://github.com/dajesusmodz/m7-plugin-internetarchive/raw/main/internetarchive_stable.zip",
             "icon": "https://archive.org/images/logo.png",
             "popularity": 1
         }
