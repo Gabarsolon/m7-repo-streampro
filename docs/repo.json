@@ -91,7 +91,7 @@
             "synopsis": "Search, Save & Stream Videos & Audio from Archive.org",
             "description": "Changelog (25/05/24):<p>* Fixed function 'removefromfavorites' displaying encrypted object title.<p>* Added Refresh Button to My Favorites.<p>* Fixed 'Show All' Button Icon.<p>* Added Support for Music Archives.",
             "homepage": "http://github.com/dajesusmodz/m7-plugin-internetarchive/",
-            "category": "video, music",
+            "category": "video", "music",
             "downloadURL": "https://github.com/dajesusmodz/m7-plugin-internetarchive/raw/main/internetarchive_stable.zip",
             "icon": "http://raw.githubusercontent.com/dajesusmodz/m7-plugin-internetarchive/main/logo.png",
             "popularity": 1
