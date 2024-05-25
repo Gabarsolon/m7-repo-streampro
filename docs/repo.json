@@ -95,6 +95,21 @@
             "downloadURL": "https://github.com/dajesusmodz/m7-plugin-internetarchive/raw/main/internetarchive_stable.zip",
             "icon": "http://raw.githubusercontent.com/dajesusmodz/m7-plugin-internetarchive/main/logo.png",
             "popularity": 1
+        },
+        {
+            "id": "tgx",
+            "version": "3.1",
+            "type": "ecmascript",
+            "author": "dean, F0R3V3R50F7",
+            "m7Version": "7.0.0",
+            "title": "TorrentGalaxy",
+            "synopsis": "Search, Browse & Stream Content From TorrentGalaxy!",
+            "description": "<p>Changelog (25/05/24):<p>* Updated Logo & BG.<p>* Changed Default Mirror.",
+            "homepage": "http://github.com/dajesusmodz/m7-plugin-tgx",
+            "category": "video",
+            "downloadURL": "https://github.com/dajesusmodz/m7-plugin-tgx/raw/main/tgx_stable.zip",
+            "icon": "http://raw.githubusercontent.com/dajesusmodz/m7-plugin-tgx/main/res/tgx/logo.png",
+            "popularity": 1
         }
     ]
 }
