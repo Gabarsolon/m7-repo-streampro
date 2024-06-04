@@ -1,4 +1,4 @@
-![StreamPRO Logo](/logo.png)
+Repo News: | (04/06/24) Development of Non-API Reliant YouTube Plugin Well Under-Way. | (04/06/24) YTS, EZTV and TGX Plugins to soon be Discontinued in Favour of Streamian. |
 
 
 **How to use the StreamPRO Repo:**
