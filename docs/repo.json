@@ -77,8 +77,8 @@
             "description": "<p>Changelog (05/06/24):<p>* Day One Release",
             "homepage": "http://github.com/dajesusmodz/m7-plugin-streamian/",
             "category": "video",
-            "downloadURL": "https://github.com/dajesusmodz/m7-plugin-streamian/raw/main/streamian_stable.zip",
-            "icon": "http://raw.githubusercontent.com/dajesusmodz/m7-plugin-streamian/main/logo.png",
+            "downloadURL": "http://github.com/dajesusmodz/m7-plugin-streamian/raw/master/streamian_stable.zip",
+            "icon": "http://github.com/dajesusmodz/m7-plugin-streamian/blob/master/logo.png?raw=true",
             "popularity": 1
         },
         {
