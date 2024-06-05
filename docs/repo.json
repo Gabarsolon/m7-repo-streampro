@@ -67,18 +67,18 @@
             "popularity": 1
         },
         {
-            "id": "yts",
-            "version": "0.8",
+            "id": "streamian",
+            "version": "1.0",
             "type": "ecmascript",
-            "author": "lprot, F0R3V3R50F7",
+            "author": "F0R3V3R50F7",
             "m7Version": "7.0.0",
-            "title": "YTS",
-            "synopsis": "Watch Movies from YTS!",
-            "description": "<p>Changelog (22/05/24):<p>* Implimented 'My Favorites' Functionality.<p>* Removed Broken Metadata Fetching Logic.",
-            "homepage": "http://github.com/dajesusmodz/m7-plugin-yts/",
+            "title": "Streamian",
+            "synopsis": "One stop for TV Shows and Movies with additional functionality. | Scrapes: 1337x & YTS - More Coming Soon!",
+            "description": "<p>Changelog (05/06/24):<p>* Day One Release",
+            "homepage": "http://github.com/dajesusmodz/m7-plugin-streamian/",
             "category": "video",
-            "downloadURL": "http://github.com/dajesusmodz/m7-plugin-yts/raw/master/yts_stable.zip",
-            "icon": "http://github.com/dajesusmodz/m7-plugin-yts/blob/master/logo.png?raw=true",
+            "downloadURL": "http://github.com/dajesusmodz/m7-plugin-streamian/raw/master/streamian_stable.zip",
+            "icon": "http://github.com/dajesusmodz/m7-plugin-streamian/blob/master/logo.png?raw=true",
             "popularity": 1
         },
         {
@@ -94,21 +94,6 @@
             "category": "video",
             "downloadURL": "https://github.com/dajesusmodz/m7-plugin-internetarchive/raw/main/internetarchive_stable.zip",
             "icon": "http://raw.githubusercontent.com/dajesusmodz/m7-plugin-internetarchive/main/logo.png",
-            "popularity": 1
-        },
-        {
-            "id": "tgx",
-            "version": "3.1",
-            "type": "ecmascript",
-            "author": "dean, F0R3V3R50F7",
-            "m7Version": "7.0.0",
-            "title": "TorrentGalaxy",
-            "synopsis": "Search, Browse & Stream Content From TorrentGalaxy!",
-            "description": "<p>Changelog (25/05/24):<p>* Updated Logo & BG.<p>* Changed Default Mirror.",
-            "homepage": "http://github.com/dajesusmodz/m7-plugin-tgx",
-            "category": "video",
-            "downloadURL": "https://github.com/dajesusmodz/m7-plugin-tgx/raw/main/tgx_stable.zip",
-            "icon": "http://raw.githubusercontent.com/dajesusmodz/m7-plugin-tgx/main/res/tgx/logo.png",
             "popularity": 1
         }
     ]
