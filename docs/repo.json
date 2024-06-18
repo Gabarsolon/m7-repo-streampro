@@ -68,13 +68,13 @@
         },
         {
             "id": "streamian",
-            "version": "1.1",
+            "version": "1.2",
             "type": "ecmascript",
             "author": "F0R3V3R50F7",
             "m7Version": "7.0.0",
             "title": "Streamian",
             "synopsis": "One stop for TV Shows and Movies with additional functionality. | Scrapes: 1337x & YTS - More Coming Soon!",
-            "description": "<p>Changelog (15/06/24):<p>* Included 'WEB-DL' as part of 720p search results on 1337x.<p>* Added 'SeedAsYouStream' Notification.<p>* Accounted for 2160p Resolution in Quality Settings and Filtering Logic.<p>* Implimented Optional Auto-Play Feature.",
+            "description": "<p>Changelog (18/06/24):<p>* Now Supports Official Subtitle Addons via IMDB ID (Opensubtitles Compatible).<p>* Fixed Trending Movies not Auto-Playing.<p>* Fixed Unable to Remove from 'Your Library' from Home Screen.",
             "homepage": "http://github.com/dajesusmodz/m7-plugin-streamian/",
             "category": "video",
             "downloadURL": "https://github.com/dajesusmodz/m7-plugin-streamian/raw/main/streamian_stable.zip",
@@ -94,6 +94,21 @@
             "category": "video",
             "downloadURL": "https://github.com/dajesusmodz/m7-plugin-invidious/raw/main/invidious_stable.zip",
             "icon": "https://raw.githubusercontent.com/dajesusmodz/m7-plugin-invidious/main/logo.png",
+            "popularity": 1
+        },
+        {
+            "id": "opensubtitles",
+            "version": "2.3.5",
+            "type": "ecmascript",
+            "author": "Andreas Smas, Superfan",
+            "showtimeVersion": "5.0.401",
+            "title": "Opensubtitles",
+            "synopsis": "Biggest multi-language subtitle database",
+            "description": "Installing this plugin will make Movian automatically search for subtitles online at opensubtitles.com when playing a movie",
+            "homepage": "http://www.opensubtitles.com/",
+            "category": "subtitles",
+            "downloadURL": "https://repo.movian.eu/opensubtitles.zip",
+            "icon": "https://repo.movian.eu/opensubtitles.png",
             "popularity": 1
         },
         {
