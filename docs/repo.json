@@ -23,7 +23,7 @@
             "description": "A BitTorrent community focused on Eastern Asian media including anime, manga, music, and more.",
             "author": "Wolfy",
             "homepage": "https://github.com/LamineMbn/movian-plugin-nyaa-wolfy",
-            "title": "Anime Sekai",
+            "title": "Anime Sekai (Reported broken, awaiting update.)",
             "synopsis": "Nyaa - Stream Anime",
             "version": "1.0.1",
             "file": "nyaa.js",
@@ -33,7 +33,7 @@
             "icon": "https://raw.githubusercontent.com/LamineMbn/movian-plugin-nyaa-wolfy/76ce799098276f90e43dd9f70b349da6641c50ab/logo.jpeg",
             "category": "video",
             "apiversion": 2,
-            "downloadURL": "https://laminembn.github.io/movian-plugin-repo/movian-plugin-nyaa-wolfy",
+            "downloadURLoff": "https://laminembn.github.io/movian-plugin-repo/movian-plugin-nyaa-wolfy",
             "popularity": 1
         },
         {
