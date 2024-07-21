@@ -3,21 +3,6 @@
     "plugins": 
     [
         {
-            "id": "vuePRO",
-            "version": "3.3",
-            "type": "ecmascript",
-            "author": "lprot, F0R3V3R50F7",
-            "M7Version": "7.0.24",
-            "title": "vuePRO (Moved to Streamian)",
-            "synopsis": "vuePRO is now a part of Streamian. Download it from the video streaming section.",
-            "description": "<p>Changelog (24/05/24):<p>* Added Notification Prompt for Item Options.",
-            "homepage": "http://github.com/dajesusmodz/m7-plugin-vuePRO/",
-            "category": "tv",
-            "downloadURL": "",
-            "icon": "http://github.com/dajesusmodz/m7-plugin-vuePRO/blob/master/logo.png?raw=true",
-            "popularity": 1
-        },
-        {
             "id": "shoutcast",
             "version": "0.3.1",
             "type": "ecmascript",
