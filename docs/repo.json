@@ -63,6 +63,21 @@
             "popularity": 1
         },
         {
+            "id": "nebula",
+            "version": "1.1.4",
+            "type": "video",
+            "author": "dean",
+            "m7Version": "7.0.0",
+            "title": "Nebula",
+            "synopsis": "Nebula - https://nebula.tv/",
+            "description": "",
+            "homepage": "",
+            "category": "glwosk",
+            "downloadURL": "https://repo.movian.eu/nebula.zip",
+            "icon": "https://repo.movian.eu/nebula.png",
+            "popularity": 1
+        },
+        {
             "id": "opensubtitles",
             "version": "2.3.5",
             "type": "ecmascript",
