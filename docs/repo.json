@@ -44,7 +44,7 @@
             "homepage": "http://github.com/lprot/movian-plugin-somafm",
             "category": "music",
             "downloadURL": "https://repo.movian.eu/somafm.zip",
-            "icon": "https://github.com/lprot/movian-plugin-somafm/blob/7d1df694570cfcbfc29c84377ea380d07a63f166/somafm.png",
+            "icon": "https://github.com/lprot/movian-plugin-somafm/blob/7d1df694570cfcbfc29c84377ea380d07a63f166/somafm.png?raw=true",
             "popularity": 1
         },
         {
@@ -103,8 +103,8 @@
             "description": "",
             "homepage": "",
             "category": "glwosk",
-            "downloadURL": "http://plugins.movian.tv/data/ecc1e6da90543dd31b1590336af8e764b3023a4b",
-            "icon": "http://plugins.movian.tv/data/45655ad9f42b534439b5869dc1fed56468469b0b",
+            "downloadURL": "https://repo.movian.eu/rua_osk.zip",
+            "icon": "https://apps.movian.eu/pluginsBG/plugins/rua_osk.png",
             "popularity": 1
         },
         {
@@ -118,8 +118,8 @@
             "description": "",
             "homepage": "",
             "category": "glwosk",
-            "downloadURL": "http://plugins.movian.tv/data/5f33266596aea41efd0f1cfdb4212d6a7a8aecbe",
-            "icon": "http://plugins.movian.tv/data/1ff771b8ef45ff13307cbf92071ffc497e44a1af",
+            "downloadURL": "https://repo.movian.eu/keysBG.zip",
+            "icon": "https://apps.movian.eu/pluginsBG/plugins/keysBG.png",
             "popularity": 0
         },
         {
@@ -133,8 +133,8 @@
             "description": "This plugin installs on Movian, Greek and English OSK interface.",
             "homepage": "www.paok.gr",
             "category": "glwosk",
-            "downloadURL": "http://plugins.movian.tv/data/4285d883258e439e1230fc562bc0d18a50d940dc",
-            "icon": "http://plugins.movian.tv/data/c15b29a1aafc564e17e2247296a5679780534f86",
+            "downloadURL": "https://repo.movian.eu/ell_osk.zip",
+            "icon": "https://apps.movian.eu/pluginsBG/plugins/ell_osk.png",
             "popularity": 1
         },
         {
