@@ -11,10 +11,10 @@
             "title": "SHOUTcast",
             "synopsis": "SHOUTcast Radio - Listen to Free Online Radio Stations",
             "description": "<p>SHOUTcast Radio - Listen to Free Online Radio Stations<p>For more information, visit <a href=\"http://www.shoutcast.com\">http://www.shoutcast.com</a>",
-            "homepage": "http://github.com/dajesusmodz/m7-plugin-SHOUTcast/",
+            "homepage": "http://github.com/F0R3V3R50F7/m7-plugin-SHOUTcast/",
             "category": "music",
-            "downloadURL": "http://github.com/dajesusmodz/m7-plugin-SHOUTcast/releases/download/0.3.1/shoutcast_stable.zip",
-            "icon": "http://github.com/dajesusmodz/m7-plugin-SHOUTcast/blob/master/logo.png?raw=true",
+            "downloadURL": "http://github.com/F0R3V3R50F7/m7-plugin-SHOUTcast/releases/download/0.3.1/shoutcast_stable.zip",
+            "icon": "http://github.com/F0R3V3R50F7/m7-plugin-SHOUTcast/blob/master/logo.png?raw=true",
             "popularity": 1
         },
         {
@@ -34,17 +34,17 @@
         },
         {
             "id": "streamian",
-            "version": "5.0",
+            "version": "5.1",
             "type": "ecmascript",
             "author": "F0R3V3R50F7",
             "m7Version": "7.0.0",
-            "title": "Streamian (Down for Repo Maintenance)",
+            "title": "Streamian",
             "synopsis": "One - Stop for Shows, Movies & TV with Personal Library & Subtitle Plugin Support.",
             "description": "<p>Supports:<p>* 1337x.to<p>* Archive.org<p>* YTS.mx<p>* EZTVx.to<p>* i.mjh.nz<p>* Apsattv.com<p>* MyCamTV.com (18+)",
-            "homepage": "http://github.com/dajesusmodz/m7-plugin-streamian/",
+            "homepage": "http://github.com/F0R3V3R50F7/m7-plugin-streamian/",
             "category": "video",
-            "downloadURL": "https://github.com/dajesusmodz/m7-plugin-streamian/raw/main/streamian_stable.zip",
-            "icon": "https://raw.githubusercontent.com/dajesusmodz/m7-plugin-streamian/main/images/logo.png",
+            "downloadURL": "https://github.com/F0R3V3R50F7/m7-plugin-streamian/raw/main/streamian_stable.zip",
+            "icon": "https://raw.githubusercontent.com/F0R3V3R50F7/m7-plugin-streamian/main/images/logo.png",
             "popularity": 1
         },
         {
@@ -56,10 +56,10 @@
             "title": "Invidious",
             "synopsis": "Search & Stream Videos / Music from Invidious",
             "description": "Changelog (15/06/24):<p>* Randomized Sub Feed.<p>* Added Menu Options for 'Check for New Releases' to Save Resources.<p>* Lowered Default Recommendation Value (Subscription feed added to compensate).<p>* Improved Loading Statements.",
-            "homepage": "http://github.com/dajesusmodz/m7-plugin-invidious/",
+            "homepage": "http://github.com/F0R3V3R50F7/m7-plugin-invidious/",
             "category": "video",
-            "downloadURL": "https://github.com/dajesusmodz/m7-plugin-invidious/raw/main/invidious_stable.zip",
-            "icon": "https://raw.githubusercontent.com/dajesusmodz/m7-plugin-invidious/main/logo.png",
+            "downloadURL": "https://github.com/F0R3V3R50F7/m7-plugin-invidious/raw/main/invidious_stable.zip",
+            "icon": "https://raw.githubusercontent.com/F0R3V3R50F7/m7-plugin-invidious/main/logo.png",
             "popularity": 1
         },
         {
@@ -146,10 +146,10 @@
             "title": "Internet Archive",
             "synopsis": "Search, Save & Stream Videos & Audio from Archive.org",
             "description": "Changelog (27/05/24):<p>* Fixed Favorites Appending Oldest to Newest.<p>* Added Page Header Icon (Archive.org Logo).<p>* Added Warning Messages About Retricted Files.<p>* Fixed File Names Including the Folder Title.<p>* Added Donation Prompt for Archive.org Team.",
-            "homepage": "http://github.com/dajesusmodz/m7-plugin-internetarchive/",
+            "homepage": "http://github.com/F0R3V3R50F7/m7-plugin-internetarchive/",
             "category": "video",
-            "downloadURL": "https://github.com/dajesusmodz/m7-plugin-internetarchive/raw/main/internetarchive_stable.zip",
-            "icon": "http://raw.githubusercontent.com/dajesusmodz/m7-plugin-internetarchive/main/logo.png",
+            "downloadURL": "https://github.com/F0R3V3R50F7/m7-plugin-internetarchive/raw/main/internetarchive_stable.zip",
+            "icon": "http://raw.githubusercontent.com/F0R3V3R50F7/m7-plugin-internetarchive/main/logo.png",
             "popularity": 1
         }
     ]
