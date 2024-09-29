@@ -17,32 +17,11 @@
 
 **Featured Plugins:**
 
-* EZTV
+* Streamian
 
-    by Gekko, iprot, Wolfy, F0R3V3R50F7
+    F0R3V3R50F7
 
-    Description: EZTV, your one stop source for all your favorite TV shows.
-
-    Link: https://github.com/dajesusmodz/m7-plugin-eztv
-
-
-* Anime Sekai
-
-    by Wolfy
-
-    Description: A BitTorrent community focused on Eastern Asian media including anime, manga, music, and more.
-
-    Link: https://github.com/LamineMbn/movian-plugin-nyaa-wolfy
-
-
-* vuePRO
-
-    by iprot, F0R3V3R50F7
-
-    Description: A User-Friendly Free-To-Air TV Player for M7 Media Center with additional features.
-
-    Link: https://github.com/dajesusmodz/m7-plugin-vuePRO/
-
+    Description: One - Stop for Shows, Movies & TV with Personal Library & Subtitle Plugin Support.
 
 * SHOUTcast
 
@@ -50,22 +29,34 @@
 
     Description: SHOUTcast Radio - Listen to Free Online Radio Stations | For more information, visit "http://www.shoutcast.com".
 
-    Link: https://github.com/dajesusmodz/m7-plugin-SHOUTcast/
+
+* Internet Archive
+
+    F0R3V3R50F7
+
+    Description: Search, Save & Stream Videos & Audio from Archive.org
+
+* Gr & Eng OSK
+
+    nikkpap
+
+    Description: Greek and English OSK interface for Movian.
 
 
-* YTS
+* Bulgarian Phonetic/BDS On-screen Keyboard
 
-    by iprot
+    dean
 
-    Description: YTS – Here you will be able to browse and watch movies in excellent DVD, 720p, 1080p and 3D quality, all at the smallest file size.
+    Description: Bulgarian Phonetic/BDS On-screen Keyboard.
 
-    Link: https://github.com/dajesusmodz/m7-plugin-yts/
+* Cyrillic OSK
 
+    Andreas Öman, lprot
 
-**Submitting Plugins:**
+    Description: Cyrillic On-Screen Keyboard.
+    
+* OpenSubtitles
 
-(Coming Soon)
+    Andreas Öman, lprot
 
-**1) placeholder** - placeholder"
-
-
+    Description: Installing this plugin will make Movian automatically search for subtitles online at opensubtitles.com when playing a video.
