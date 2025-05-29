@@ -48,7 +48,7 @@
             "popularity": 1
         },
         {
-            "id": "invidious",
+            "id": "invidious (Discontinued)",
             "version": "1.6",
             "type": "ecmascript",
             "author": "F0R3V3R50F7",
@@ -58,7 +58,7 @@
             "description": "Changelog (15/06/24):<p>* Randomized Sub Feed.<p>* Added Menu Options for 'Check for New Releases' to Save Resources.<p>* Lowered Default Recommendation Value (Subscription feed added to compensate).<p>* Improved Loading Statements.",
             "homepage": "http://github.com/F0R3V3R50F7/m7-plugin-invidious/",
             "category": "video",
-            "downloadURL": "https://github.com/F0R3V3R50F7/m7-plugin-invidious/raw/main/invidious_stable.zip",
+            "downloadURL": "xhttps://github.com/F0R3V3R50F7/m7-plugin-invidious/raw/main/invidious_stable.zip",
             "icon": "https://raw.githubusercontent.com/F0R3V3R50F7/m7-plugin-invidious/main/logo.png",
             "popularity": 1
         },
