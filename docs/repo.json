@@ -4,7 +4,7 @@
     [
         {
             "id": "shoutcast",
-            "version": "0.3.1",
+            "version": "2.0.3",
             "type": "ecmascript",
             "author": "lprot",
             "showtimeVersion": "4.8",
